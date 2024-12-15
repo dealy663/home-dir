@@ -1,0 +1,4 @@
+.config/gh/
+.config/clojure/
+.ssh
+.oh-my-zsh
